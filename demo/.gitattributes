@@ -1,0 +1,4 @@
+demo.py filter=lfs diff=lfs merge=lfs -text
+emoji filter=lfs diff=lfs merge=lfs -text
+haarcascade_frontalface_default.xml filter=lfs diff=lfs merge=lfs -text
+models filter=lfs diff=lfs merge=lfs -text
